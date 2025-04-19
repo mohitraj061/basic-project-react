@@ -1,6 +1,6 @@
-export const Header = () => {
+const Header = () => {
     return (
-        <div className="ui fixed menu">
+        <div className="ui fixed menu" >
             <div className="ui container center">
                 <h2>Directory Management Application</h2>
             </div>

@@ -7,7 +7,7 @@ const ContactCard = (props) => {
     console.log(props, 'PROPS_CARD');
     
     return (
-        <div>
+        <div className="ui container center">
             <img className="ui avatar image" src={user} alt="user" />
 
             <div className="content">
