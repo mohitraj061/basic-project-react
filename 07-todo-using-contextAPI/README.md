@@ -21,7 +21,7 @@ This project is a simple Todo application built using Vite + React. It demonstra
 
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone <https://github.com/mohitraj061/react-projects.git>
     ```
 
 2. Install dependencies:
