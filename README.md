@@ -1,4 +1,4 @@
-# 🚀 Basic React Projects (with Vite & CRA)
+# 🚀 React Projects (with Vite & CRA)
 
 Welcome to the React + Vite Projects repository!  
 This repo contains a collection of beginner-friendly React projects built using Vite & CRA — a fast and modern build tool for front-end development.
